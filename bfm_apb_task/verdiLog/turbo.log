@@ -1,0 +1,5 @@
+Command Line: /home/summer/Synopsys/verdi/V-2023.12/platform/LINUXAMD64/bin/Novas
+uname(Linux yian 3.10.0-1160.108.1.el7.x86_64 #1 SMP Thu Jan 25 16:17:31 UTC 2024 x86_64)
+
+[ERROR] Could not checkout Verdi Elite (Verdi) license. Use verdi -licdebug for more information.
+au time 1.098424 0.808357 0.195102 delta 111771648 111771648 total 757235712 757235712
